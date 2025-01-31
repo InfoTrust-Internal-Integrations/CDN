@@ -2,20 +2,20 @@
   "linkGroups": [
     {
       "title": "Work Management",
-      "icon": "./assets/card-icons/work-management.png",
+      "icon": "work-management.png",
       "links": [
         {
           "name": "Jira",
           "url": "https://infotrust.atlassian.net/jira/your/work",
           "description": "Project and task management",
-          "icon": "./assets/card-icons/jira.svg",
+          "icon": "jira.svg",
           "sublinks": []
         },
         {
           "name": "Salesforce",
           "url": "https://infotrust.lightning.force.com",
           "description": "Customer relationship management",
-          "icon": "./assets/card-icons/salesforce.svg",
+          "icon": "salesforce.svg",
           "sublinks": [
             {
               "name": "example1",
@@ -35,7 +35,7 @@
     },
     {
       "title": "Internal Tools",
-      "icon": "./assets/card-icons/bits.png",
+      "icon": "bits.png",
       "links": [
         {
           "name": "InfoGPT",
@@ -48,7 +48,7 @@
           "name": "Confluence",
           "url": "https://infotrust.atlassian.net/wiki",
           "description": "Knowledge base and documentation",
-          "icon": "./assets/card-icons/confluence.svg",
+          "icon": "confluence.svg",
           "sublinks": [
             {
               "name": "InfoTrust Wiki",
@@ -63,61 +63,61 @@
           "name": "Sundevil",
           "url": "https://automations.infotrust.com/",
           "description": "Automation Tool",
-          "icon": "./assets/card-icons/sundevil.png",
+          "icon": "sundevil.png",
           "sublinks": []
         },
         {
           "name": "Trainual",
           "url": "https://www.trainual.com",
           "description": "Training and onboarding",
-          "icon": "./assets/card-icons/trainual.png",
+          "icon": "trainual.png",
           "sublinks": []
         }
       ]
     },
     {
       "title": "Business Operations",
-      "icon": "./assets/card-icons/business-operations.png",
+      "icon": "business-operations.png",
       "links": [
         {
           "name": "Performance Dashboards",
           "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
           "description": "Company performance metrics",
-          "icon": "./assets/card-icons/target.svg",
+          "icon": "target.svg",
           "sublinks": []
         },
         {
           "name": "Expensify",
           "url": "https://www.expensify.com",
           "description": "Expense management and reporting",
-          "icon": "./assets/card-icons/expensify.svg",
+          "icon": "expensify.svg",
           "sublinks": []
         },
         {
           "name": "Ironclad",
           "url": "https://www.ironcladapp.com",
           "description": "Contract management system",
-          "icon": "./assets/card-icons/ironclad.png",
+          "icon": "ironclad.png",
           "sublinks": []
         },
         {
           "name": "Greenhouse",
           "url": "https://www.greenhouse.io",
           "description": "Recruitment and hiring platform",
-          "icon": "./assets/card-icons/greenhouse.png",
+          "icon": "greenhouse.png",
           "sublinks": []
         }
       ]
     },
     {
       "title": "HR & Benefits",
-      "icon": "./assets/card-icons/hr.png",
+      "icon": "hr.png",
       "links": [
         {
           "name": "Paycor",
           "url": "https://www.paycor.com/login",
           "description": "Payroll and time tracking",
-          "icon": "./assets/card-icons/paycor.png",
+          "icon": "paycor.png",
           "sublinks": [
             {
               "name": "Paycor Goals/Objectives",
@@ -143,34 +143,34 @@
           "name": "Bonusly",
           "url": "https://bonus.ly/",
           "description": "Peer recognition and rewards",
-          "icon": "./assets/card-icons/bonusly.svg",
+          "icon": "bonusly.svg",
           "sublinks": []
         },
         {
           "name": "US Healthcare & Retirement",
           "description": "US benefits portal",
           "url": "https://app.trainual.com/infotrust/curriculums/1237101",
-          "icon": "./assets/card-icons/usa-flag.png",
+          "icon": "usa-flag.png",
           "sublinks": [
             {
               "name": "Humana",
               "url": "https://www.humana.com/",
               "description": "Health insurance provider",
-              "icon": "./assets/card-icons/humana.png",
+              "icon": "humana.png",
               "sublinks": []
             },
             {
               "name": "iSolved FSA",
               "url": "https://www.isolved.com",
               "description": "Flexible Spending Account management",
-              "icon": "./assets/card-icons/isolved.png",
+              "icon": "isolved.png",
               "sublinks": []
             },
             {
               "name": "LT Trust",
               "url": "https://www.lttrust.com",
               "description": "401(k) retirement plans",
-              "icon": "./assets/card-icons/lt-trust.png",
+              "icon": "lt-trust.png",
               "sublinks": []
             }
           ]
@@ -178,7 +178,7 @@
         {
           "name": "International",
           "description": "International benefits portal",
-          "icon": "./assets/card-icons/international.png",
+          "icon": "international.png",
           "sublinks": [
             {
               "name": "placeholder",
@@ -192,26 +192,26 @@
     },
     {
       "title": "Engineering",
-      "icon": "./assets/card-icons/engineering.png",
+      "icon": "engineering.png",
       "links": [
         {
           "name": "GitHub",
           "url": "https://github.com/Infotrust-llc",
           "description": "Code repositories",
-          "icon": "./assets/card-icons/github.png",
+          "icon": "github.png",
           "sublinks": []
         }
       ]
     },
     {
       "title": "Marketing",
-      "icon": "./assets/card-icons/marketing.png",
+      "icon": "marketing.png",
       "links": [
         {
           "name": "Pardot",
           "url": "https://pi.pardot.com",
           "description": "Marketing automation platform",
-          "icon": "./assets/card-icons/pardot.png",
+          "icon": "pardot.png",
           "sublinks": []
         }
       ]
