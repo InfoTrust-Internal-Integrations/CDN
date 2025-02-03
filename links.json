@@ -17,20 +17,7 @@
           "url": "https://infotrust.lightning.force.com",
           "description": "Customer relationship management",
           "icon": "salesforce.svg",
-          "sublinks": [
-            {
-              "name": "example1",
-              "url": "https://infotrust.lightning.force.com",
-              "description": "Customer relationship management",
-              "sublinks": []
-            },
-            {
-              "name": "example1",
-              "url": "https://infotrust.lightning.force.com",
-              "description": "Customer relationship management",
-              "sublinks": []
-            }
-          ]
+          "sublinks": []
         },
         {
           "name": "TEST",
