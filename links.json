@@ -1,6 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "linkGroups": [
+    {
+      "title": "InfoTrust Wiki",
+      "icon": "infotrust-logo-text-blue.svg",
+      "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/overview"
+    },
     {
       "title": "Work Management",
       "icon": "work-management.png",
