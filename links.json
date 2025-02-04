@@ -4,17 +4,17 @@
     {
       "name": "InfoTrust Wiki",
       "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/overview",
-      "icon": "infotrust-logo-text-blue.svg"
+      "icon": "infotrust-logo-words-blue.png"
     },
     {
-      "name": "adam",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D",
-      "icon": "adamFabionobg.png"
+      "name": "Performance Dashboards",
+      "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
+      "icon": "target.svg"
     },
     {
-      "name": "Link 3",
+      "name": "InfoGPT",
       "url": "https://infogpt.infotrust.systems/",
-      "icon": "infotrust-logo-blue.png"
+      "icon": "infogpt-logo.svg"
     }
   ],
   "linkGroups": [
@@ -50,13 +50,6 @@
       "icon": "bits.png",
       "links": [
         {
-          "name": "InfoGPT",
-          "url": "https://infogpt.infotrust.systems/",
-          "description": "AI assistance platform",
-          "icon": "infotrust-logo-blue.png",
-          "sublinks": []
-        },
-        {
           "name": "Confluence",
           "url": "https://infotrust.atlassian.net/wiki",
           "description": "Knowledge base and documentation",
@@ -83,13 +76,6 @@
       "title": "Business Operations",
       "icon": "business-operations.png",
       "links": [
-        {
-          "name": "Performance Dashboards",
-          "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
-          "description": "Company performance metrics",
-          "icon": "target.svg",
-          "sublinks": []
-        },
         {
           "name": "Expensify",
           "url": "https://www.expensify.com",
