@@ -1,5 +1,22 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "pinnedLinks": [
+    {
+      "name": "InfoTrust Wiki",
+      "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/overview",
+      "icon": "infotrust-logo-text-blue.svg"
+    },
+    {
+      "name": "adam",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D",
+      "icon": "adamFabionobg.png"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://infogpt.infotrust.systems/",
+      "icon": "infotrust-logo-blue.png"
+    }
+  ],
   "linkGroups": [
     {
       "title": "Work Management",
@@ -44,15 +61,7 @@
           "url": "https://infotrust.atlassian.net/wiki",
           "description": "Knowledge base and documentation",
           "icon": "confluence.svg",
-          "sublinks": [
-            {
-              "name": "InfoTrust Wiki",
-              "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/overview",
-              "description": "Knowledge base and documentation",
-              "icon": "infotrust-logo-text-blue.svg",
-              "sublinks": []
-            }
-          ]
+          "sublinks": []
         },
         {
           "name": "Sundevil",
