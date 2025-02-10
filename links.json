@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "pinnedLinks": [
     {
       "name": "InfoTrust Wiki",
@@ -217,7 +217,7 @@
     {
       "name": "Marketing Design Request Form",
       "url": "hhttps://infotrust.atlassian.net/jira/core/projects/ART/form/39",
-      "icon": "adamFabionobg.png",
+      "icon": "marketing.png",
       "description": "Request design work from the marketing team"
     },
     {
