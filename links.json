@@ -206,5 +206,25 @@
         }
       ]
     }
+  ],
+  "helpDeskLinks": [
+    {
+      "name": "IT Help Desk",
+      "url": "https://infotrust.atlassian.net/servicedesk/customer/portal/1",
+      "icon": "help-center.png",
+      "description": "BITS support"
+    },
+    {
+      "name": "Marketing Design Request Form",
+      "url": "hhttps://infotrust.atlassian.net/jira/core/projects/ART/form/39",
+      "icon": "adamFabionobg.png",
+      "description": "Request design work from the marketing team"
+    },
+    {
+      "name": "Engineering Automation Request",
+      "url": "https://infotrust.atlassian.net/jira/software/c/projects/ET/form/43",
+      "icon": "engineering.png",
+      "description": "Request automation work from the engineering team"
+    }
   ]
 }
