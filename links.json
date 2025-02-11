@@ -2,9 +2,9 @@
   "version": "1.0.9",
   "pinnedLinks": [
     {
-      "name": "InfoTrust Wiki",
+      "name": "InfoWiki",
       "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/overview",
-      "icon": "infotrust-logo-words-blue.png"
+      "icon": "infowiki.png"
     },
     {
       "name": "Annual Goal",
