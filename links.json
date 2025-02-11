@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "pinnedLinks": [
     {
       "name": "InfoTrust Wiki",
@@ -7,9 +7,9 @@
       "icon": "infotrust-logo-words-blue.png"
     },
     {
-      "name": "2025 Goal",
+      "name": "Annual Goal",
       "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
-      "icon": "target.svg"
+      "icon": "target.png"
     },
     {
       "name": "InfoGPT",
