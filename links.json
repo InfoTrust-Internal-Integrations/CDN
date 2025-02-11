@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -159,7 +159,7 @@
                   "name": "FSA Store",
                   "url": "https://fsastore.com/",
                   "description": "FSA elligble products marketplace",
-                  "icon": "fsa-fsastore.png",
+                  "icon": "fsastore.png",
                   "sublinks": []
                 }
               ]
