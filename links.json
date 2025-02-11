@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "pinnedLinks": [
     {
       "name": "InfoTrust Wiki",
@@ -14,7 +14,7 @@
     {
       "name": "InfoGPT",
       "url": "https://infogpt.infotrust.systems/",
-      "icon": "infogpt-logo.svg"
+      "icon": "infogpt-whiteback.png"
     }
   ],
   "linkGroups": [
