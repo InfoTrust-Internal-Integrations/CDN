@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "pinnedLinks": [
     {
       "name": "InfoTrust Wiki",
@@ -7,7 +7,7 @@
       "icon": "infotrust-logo-words-blue.png"
     },
     {
-      "name": "Performance Dashboards",
+      "name": "2025 Annual Goal",
       "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
       "icon": "target.svg"
     },
