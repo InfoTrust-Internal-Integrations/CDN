@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -235,19 +235,6 @@
       ]
     },
     {
-      "title": "Marketing",
-      "icon": "marketing.png",
-      "links": [
-        {
-          "name": "Branding Resources",
-          "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/431226952/Hub+Branding",
-          "description": "Brand guide and assets",
-          "icon": "branding.png",
-          "sublinks": []
-        }
-      ]
-    },
-    {
       "title": "Function Specific Platforms",
       "icon": "function.png",
       "links": [
@@ -302,13 +289,13 @@
   "helpDeskLinks": [
     {
       "name": "IT Help Desk",
-      "url": "https://infotrust.atlassian.net/servicedesk/customer/portal/1",
+      "url": "https://infotrust.atlassian.net/servicedesk/customer/portals",
       "icon": "help-center.png",
       "description": "Ask for technical support from the BITS team."
     },
     {
       "name": "Marketing Design Request",
-      "url": "hhttps://infotrust.atlassian.net/jira/core/projects/ART/form/39",
+      "url": "https://infotrust.atlassian.net/jira/core/projects/ART/form/39",
       "icon": "marketing-request.png",
       "description": "Request design work from the marketing team."
     },
