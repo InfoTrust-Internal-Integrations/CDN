@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -181,7 +181,7 @@
             },
             {
               "name": "Benefits Enrollment Guide",
-              "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/1298366556/Enrollment+Guide",
+              "url": "https://issuu.com/horanassociates/docs/2025_benefit_guide?fr=xKAE9_zU1NQ",
               "description": "Current year enrollment",
               "icon": "benefits_guide.png",
               "sublinks": []
@@ -194,7 +194,7 @@
               "sublinks": [
                 {
                   "name": "Sydney Health App",
-                  "url": "https://sydneyapp.onelink.me/lS55/d200b7b3?af_qr=true",
+                  "url": "https://drive.google.com/file/d/1wD4NLJkc6BzV04uOsRF0riZxmLQKMaCI/view?usp=drive_link",
                   "description": "Healthcare mobile app",
                   "icon": "sydneyapp.png",
                   "sublinks": []
