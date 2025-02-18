@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "title": "Internal Tools",
-      "icon": "bits.png",
+      "title": "Knowledge & Trainings",
+      "icon": "knowledge.png",
       "links": [
         {
           "name": "Confluence",
@@ -86,6 +86,26 @@
           "sublinks": []
         },
         {
+          "name": "Trainual",
+          "url": "https://www.trainual.com",
+          "description": "Training and onboarding",
+          "icon": "trainual.png",
+          "sublinks": []
+        },
+        {
+          "name": "KnowBe4",
+          "url": "https://training.knowbe4.com/",
+          "description": "Security awareness training",
+          "icon": "knowbe4.png",
+          "sublinks": []
+        }
+      ]
+    },
+    {
+      "title": "Internal Tools",
+      "icon": "tools.png",
+      "links": [
+        {
           "name": "Sundevil",
           "url": "https://automations.infotrust.com/",
           "description": "Automation Tool",
@@ -93,10 +113,10 @@
           "sublinks": []
         },
         {
-          "name": "Trainual",
-          "url": "https://www.trainual.com",
-          "description": "Training and onboarding",
-          "icon": "trainual.png",
+          "name": "Tag Inspector",
+          "url": "https://app.taginspector.com/",
+          "description": "Automation Tool",
+          "icon": "taginspector.png",
           "sublinks": []
         }
       ]
