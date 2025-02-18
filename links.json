@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -192,33 +192,47 @@
               "sublinks": [
                 {
                   "name": "Sydney Health App",
-                  "url": "https://www.anthem.com/",
+                  "url": "https://sydneyapp.onelink.me/lS55/d200b7b3?af_qr=true",
                   "description": "Healthcare mobile app",
-                  "icon": "sydney_qrcode.png",
+                  "icon": "sydneyapp.png",
                   "sublinks": []
                 }
               ]
             },
             {
+              "name": "American Trust Retrirement",
+              "url": "https://www.americantrustretirement.com/account-access/",
+              "description": "401(k) retirement plans",
+              "icon": "amtrust.png",
+              "sublinks": []
+            },
+            {
               "name": "iSolved FSA",
-              "url": "https://www.isolved.com",
-              "description": "Flexible Spending Account management",
+              "url": "https://infinconsumer.lh1ondemand.com/Login.aspx",
+              "description": "Flexible Spending Account",
               "icon": "isolved.png",
               "sublinks": [
                 {
                   "name": "FSA Store",
                   "url": "https://fsastore.com/",
-                  "description": "FSA elligble products marketplace",
+                  "description": "FSA products marketplace",
                   "icon": "fsastore.png",
                   "sublinks": []
                 }
               ]
             },
             {
-              "name": "LT Trust",
-              "url": "https://www.lttrust.com",
-              "description": "401(k) retirement plans",
-              "icon": "lt-trust.png",
+              "name": "My InfoTrust Benefits",
+              "url": "https://myinfotrustbenefits.com",
+              "description": "Benefits enrollment portal",
+              "icon": "benefits_enroll.png",
+              "sublinks": []
+            },
+            {
+              "name": "Benefits Enrollment Guide",
+              "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/1298366556/Enrollment+Guide",
+              "description": "Up-to-date Enrollment Guide",
+              "icon": "bnefits_guide.png",
               "sublinks": []
             }
           ]
