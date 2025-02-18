@@ -20,7 +20,7 @@
   "linkGroups": [
     {
       "title": "Work Management",
-      "icon": "work-management.png",
+      "icon": "gantt.png",
       "links": [
         {
           "name": "Jira",
@@ -150,7 +150,7 @@
     },
     {
       "title": "HR & Benefits",
-      "icon": "hr.png",
+      "icon": "work-management.png",
       "links": [
         {
           "name": "Paycor",
@@ -264,30 +264,15 @@
       "icon": "engineering.png",
       "links": [
         {
-          "name": "Revenue",
-          "url": "",
-          "description": "",
-          "icon": "github.png",
-          "sublinks": [
-            {
-              "name": "Apollo",
-              "url": "https://apollo.io",
-              "description": "",
-              "icon": "github.png",
-              "sublinks": []
-            }
-          ]
-        },
-        {
           "name": "Engineering",
           "url": "",
           "description": "",
-          "icon": "github.png",
+          "icon": "engineering.png",
           "sublinks": [
             {
-              "name": "Apollo",
-              "url": "https://apollo.io",
-              "description": "",
+              "name": "GitHub",
+              "url": "https://github.com",
+              "description": "Code repository",
               "icon": "github.png",
               "sublinks": []
             }
@@ -297,13 +282,28 @@
           "name": "Finance",
           "url": "",
           "description": "",
-          "icon": "github.png",
+          "icon": "finance.png",
+          "sublinks": [
+            {
+              "name": "QuickBooks Online",
+              "url": "https://qbo.intuit.com/app/homepage",
+              "description": "",
+              "icon": "qbo.png",
+              "sublinks": []
+            }
+          ]
+        },
+        {
+          "name": "Revenue",
+          "url": "",
+          "description": "",
+          "icon": "revenue.png",
           "sublinks": [
             {
               "name": "Apollo",
               "url": "https://apollo.io",
-              "description": "",
-              "icon": "github.png",
+              "description": "Top-of-funnel platform",
+              "icon": "apollo.png",
               "sublinks": []
             }
           ]
