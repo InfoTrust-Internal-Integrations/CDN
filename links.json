@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Knowledge & Trainings",
-      "icon": "knowledge.png",
+      "icon": "knowledge_alt.png",
       "links": [
         {
           "name": "Confluence",
@@ -115,7 +115,7 @@
         {
           "name": "Tag Inspector",
           "url": "https://app.taginspector.com/",
-          "description": "Automation Tool",
+          "description": "Tag audit & monitoring",
           "icon": "taginspector.png",
           "sublinks": []
         }
@@ -137,6 +137,13 @@
           "url": "https://www.greenhouse.io",
           "description": "Recruitment and hiring platform",
           "icon": "greenhouse.png",
+          "sublinks": []
+        },
+        {
+          "name": "Asset Panda",
+          "url": "https://infotrust.assetpanda.com",
+          "description": "Device and equipment tracking",
+          "icon": "assetpanda.png",
           "sublinks": []
         }
       ]
