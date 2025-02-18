@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -25,7 +25,7 @@
         {
           "name": "Jira",
           "url": "https://infotrust.atlassian.net/jira/your/work",
-          "description": "Project and task management",
+          "description": "Internal project management",
           "icon": "jira.svg",
           "sublinks": []
         },
@@ -37,11 +37,40 @@
           "sublinks": []
         },
         {
-          "name": "TEST",
-          "url": "https://infotrust.com",
-          "description": "TEST",
-          "icon": "adamFabionobg.png",
+          "name": "Ironclad",
+          "url": "https://www.ironcladapp.com",
+          "description": "Contract management system",
+          "icon": "ironclad.png",
           "sublinks": []
+        },
+        {
+          "name": "Google Workspace",
+          "url": "https://myaccount.google.com/",
+          "description": "Productivity Suite",
+          "icon": "google.png",
+          "sublinks": [
+            {
+              "name": "Gmail",
+              "url": "https://mail.google.com",
+              "description": "Email provider",
+              "icon": "gmail.png",
+              "sublinks": []
+            },
+            {
+              "name": "Google Calendar",
+              "url": "https://calendar.google.com",
+              "description": "Calendar and scheduling",
+              "icon": "google_calendar.png",
+              "sublinks": []
+            },
+            {
+              "name": "Google Drive",
+              "url": "https://drive.google.com",
+              "description": "Collaborative file storage",
+              "icon": "google_drive.png",
+              "sublinks": []
+            }
+          ]
         }
       ]
     },
@@ -81,13 +110,6 @@
           "url": "https://www.expensify.com",
           "description": "Expense management and reporting",
           "icon": "expensify.svg",
-          "sublinks": []
-        },
-        {
-          "name": "Ironclad",
-          "url": "https://www.ironcladapp.com",
-          "description": "Contract management system",
-          "icon": "ironclad.png",
           "sublinks": []
         },
         {
