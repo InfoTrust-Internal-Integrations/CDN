@@ -1,10 +1,10 @@
 {
-  "version": "1.0.21",
+  "version": "1.1.0",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
       "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/overview",
-      "icon": "infowiki.png"
+      "icon": "wiki_alt.png"
     },
     {
       "name": "Annual Goal",
@@ -24,7 +24,7 @@
       "links": [
         {
           "name": "Jira",
-          "url": "https://infotrust.atlassian.net/jira/your/work",
+          "url": "https://infotrust.atlassian.net",
           "description": "Internal project management",
           "icon": "jira.svg",
           "sublinks": []
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Knowledge & Trainings",
+      "title": "Knowledge & Training",
       "icon": "knowledge_alt.png",
       "links": [
         {
@@ -106,17 +106,17 @@
       "icon": "tools.png",
       "links": [
         {
-          "name": "Sundevil",
-          "url": "https://automations.infotrust.com/",
-          "description": "Automation Tool",
-          "icon": "sundevil.png",
-          "sublinks": []
-        },
-        {
           "name": "Tag Inspector",
           "url": "https://app.taginspector.com/",
           "description": "Tag audit & monitoring",
           "icon": "taginspector.png",
+          "sublinks": []
+        },
+        {
+          "name": "Sundevil",
+          "url": "https://automations.infotrust.com/",
+          "description": "Automation Tool",
+          "icon": "sundevil.png",
           "sublinks": []
         }
       ]
@@ -159,15 +159,9 @@
           "icon": "paycor.png",
           "sublinks": [
             {
-              "name": "Paycor Goals/Objectives",
+              "name": "Paycor Performance",
               "url": "https://performance.paycor.com/",
               "description": "Goal and Objective Tracking",
-              "sublinks": []
-            },
-            {
-              "name": "Feedback",
-              "url": "https://performance.paycor.com/feedback/overview",
-              "description": "Quarterly Feedback",
               "sublinks": []
             }
           ]
@@ -248,7 +242,7 @@
           "name": "Branding Resources",
           "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/431226952/Hub+Branding",
           "description": "Brand guide and assets",
-          "icon": "pardot.png",
+          "icon": "branding.png",
           "sublinks": []
         }
       ]
