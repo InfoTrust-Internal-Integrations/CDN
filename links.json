@@ -179,24 +179,25 @@
           ]
         },
         {
-          "name": "Bonusly",
-          "url": "https://bonus.ly/",
-          "description": "Peer recognition and rewards",
-          "icon": "bonusly.svg",
-          "sublinks": []
-        },
-        {
-          "name": "US Healthcare & Retirement",
+          "name": "US Benefits",
           "description": "US benefits portal",
           "url": "https://app.trainual.com/infotrust/curriculums/1237101",
-          "icon": "usa-flag.png",
+          "icon": "benefits.png",
           "sublinks": [
             {
-              "name": "Humana",
-              "url": "https://www.humana.com/",
-              "description": "Health insurance provider",
-              "icon": "humana.png",
-              "sublinks": []
+              "name": "Anthem",
+              "url": "https://www.anthem.com/",
+              "description": "Healthcare, Vison & Dental",
+              "icon": "anthem.png",
+              "sublinks": [
+                {
+                  "name": "Sydney Health App",
+                  "url": "https://www.anthem.com/",
+                  "description": "Healthcare mobile app",
+                  "icon": "sydney_qrcode.png",
+                  "sublinks": []
+                }
+              ]
             },
             {
               "name": "iSolved FSA",
@@ -223,17 +224,11 @@
           ]
         },
         {
-          "name": "International",
-          "description": "International benefits portal",
-          "icon": "international.png",
-          "sublinks": [
-            {
-              "name": "placeholder",
-              "url": "#",
-              "description": "Placeholder description",
-              "sublinks": []
-            }
-          ]
+          "name": "Bonusly",
+          "url": "https://bonus.ly/",
+          "description": "Peer recognition and rewards",
+          "icon": "bonusly.svg",
+          "sublinks": []
         }
       ]
     },
