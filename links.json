@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -185,6 +185,20 @@
           "icon": "benefits.png",
           "sublinks": [
             {
+              "name": "My InfoTrust Benefits",
+              "url": "https://myinfotrustbenefits.com",
+              "description": "Benefits enrollment portal",
+              "icon": "benefits_enroll.png",
+              "sublinks": []
+            },
+            {
+              "name": "Benefits Enrollment Guide",
+              "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/1298366556/Enrollment+Guide",
+              "description": "Current year enrollment",
+              "icon": "benefits_guide.png",
+              "sublinks": []
+            },
+            {
               "name": "Anthem",
               "url": "https://www.anthem.com/",
               "description": "Healthcare, Vison & Dental",
@@ -220,20 +234,6 @@
                   "sublinks": []
                 }
               ]
-            },
-            {
-              "name": "My InfoTrust Benefits",
-              "url": "https://myinfotrustbenefits.com",
-              "description": "Benefits enrollment portal",
-              "icon": "benefits_enroll.png",
-              "sublinks": []
-            },
-            {
-              "name": "Benefits Enrollment Guide",
-              "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/1298366556/Enrollment+Guide",
-              "description": "Up-to-date Enrollment Guide",
-              "icon": "bnefits_guide.png",
-              "sublinks": []
             }
           ]
         },
@@ -247,28 +247,66 @@
       ]
     },
     {
-      "title": "Engineering",
-      "icon": "engineering.png",
+      "title": "Marketing",
+      "icon": "marketing.png",
       "links": [
         {
-          "name": "GitHub",
-          "url": "https://github.com/Infotrust-llc",
-          "description": "Code repositories",
-          "icon": "github.png",
+          "name": "Branding Resources",
+          "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/431226952/Hub+Branding",
+          "description": "Brand guide and assets",
+          "icon": "pardot.png",
           "sublinks": []
         }
       ]
     },
     {
-      "title": "Marketing",
-      "icon": "marketing.png",
+      "title": "Function Specific Platforms",
+      "icon": "engineering.png",
       "links": [
         {
-          "name": "Pardot",
-          "url": "https://pi.pardot.com",
-          "description": "Marketing automation platform",
-          "icon": "pardot.png",
-          "sublinks": []
+          "name": "Revenue",
+          "url": "",
+          "description": "",
+          "icon": "github.png",
+          "sublinks": [
+            {
+              "name": "Apollo",
+              "url": "https://apollo.io",
+              "description": "",
+              "icon": "github.png",
+              "sublinks": []
+            }
+          ]
+        },
+        {
+          "name": "Engineering",
+          "url": "",
+          "description": "",
+          "icon": "github.png",
+          "sublinks": [
+            {
+              "name": "Apollo",
+              "url": "https://apollo.io",
+              "description": "",
+              "icon": "github.png",
+              "sublinks": []
+            }
+          ]
+        },
+        {
+          "name": "Finance",
+          "url": "",
+          "description": "",
+          "icon": "github.png",
+          "sublinks": [
+            {
+              "name": "Apollo",
+              "url": "https://apollo.io",
+              "description": "",
+              "icon": "github.png",
+              "sublinks": []
+            }
+          ]
         }
       ]
     }
