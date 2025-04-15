@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -7,14 +7,14 @@
       "icon": "wiki_alt.png"
     },
     {
-      "name": "Annual Goal",
-      "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
-      "icon": "target.png"
+      "name": "Open a Ticket",
+      "url": "#",
+      "icon": "ticket-orange.png"
     },
     {
       "name": "InfoGPT",
-      "url": "https://infogpt.infotrust.systems/",
-      "icon": "infogpt-whiteback.png"
+      "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
+      "icon": "target-blue.png"
     }
   ],
   "linkGroups": [
