@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -12,7 +12,7 @@
       "icon": "ticket-orangey.png"
     },
     {
-      "name": "InfoGPT",
+      "name": "Annual Goal",
       "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
       "icon": "target-blue.png"
     }
