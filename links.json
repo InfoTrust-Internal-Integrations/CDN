@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "pinnedLinks": [
     {
       "name": "InfoWiki",
@@ -289,7 +289,7 @@
   "helpDeskLinks": [
     {
       "name": "IT Help Desk",
-      "url": "https://infotrust.atlassian.net/servicedesk/customer/portals",
+      "url": "https://infotrust.atlassian.net/servicedesk/customer/portal/4",
       "icon": "help-center.png",
       "description": "Ask for technical support from the BITS team."
     },
