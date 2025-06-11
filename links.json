@@ -86,13 +86,6 @@
           "sublinks": []
         },
         {
-          "name": "Trainual",
-          "url": "https://www.trainual.com",
-          "description": "Training and onboarding",
-          "icon": "trainual.png",
-          "sublinks": []
-        },
-        {
           "name": "KnowBe4",
           "url": "https://training.knowbe4.com/",
           "description": "Security awareness training",
