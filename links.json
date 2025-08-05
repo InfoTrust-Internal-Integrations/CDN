@@ -287,6 +287,12 @@
       "description": "Ask for technical support from the BITS team."
     },
     {
+      "name": "Submit an InfoSpark Idea",
+      "url": "https://n8n.infotrust.systems/form/43984124-619b-4dce-9209-2a89f953d1a6",
+      "icon": "infospark.png",
+      "description": "Submit your innovative idea for enhancing productivity through automation and/or AI."
+    },
+    {
       "name": "Marketing Design Request",
       "url": "https://infotrust.atlassian.net/jira/core/projects/ART/form/39",
       "icon": "marketing-request.png",
