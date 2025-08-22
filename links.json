@@ -293,6 +293,12 @@
       "description": "Submit your innovative idea for enhancing productivity through automation and/or AI."
     },
     {
+      "name": "All Company Meeting Signup",
+      "url": "https://infotrust.atlassian.net/jira/core/projects/WCMS/form/440",
+      "icon": "google_calendar.png",
+      "description": "Submit a request to present or share a quick update during an all company meeting."
+    },
+    {
       "name": "Marketing Design Request",
       "url": "https://infotrust.atlassian.net/jira/core/projects/ART/form/39",
       "icon": "marketing-request.png",
