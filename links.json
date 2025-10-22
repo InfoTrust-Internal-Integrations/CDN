@@ -1,5 +1,5 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.18",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -87,7 +87,7 @@
         },
         {
           "name": "Paycor LMS",
-          "url": "https://infotrust-llc.litmos.com/home/dashboard",
+          "url": "https://secure.paycor.com/Accounts/ApiSso/signin?partner=litmos",
           "description": "Learning Management System",
           "icon": "paycor.png",
           "sublinks": []
