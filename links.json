@@ -1,5 +1,5 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -180,8 +180,8 @@
               "sublinks": []
             },
             {
-              "name": "Benefits Enrollment Guide",
-              "url": "https://issuu.com/horanassociates/docs/2025_benefit_guide?fr=xKAE9_zU1NQ",
+              "name": "Benefits Enrollment Guide (2026)",
+              "url": "https://issuu.com/horanassociates/docs/2026_infotrust_benefit_guide",
               "description": "Current year enrollment",
               "icon": "benefits_guide.png",
               "sublinks": []
