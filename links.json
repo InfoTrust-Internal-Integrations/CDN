@@ -1,5 +1,5 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.20",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -295,7 +295,7 @@
     },
     {
       "name": "Submit an InfoSpark Idea",
-      "url": "https://n8n.infotrust.systems/form/43984124-619b-4dce-9209-2a89f953d1a6",
+      "url": "https://n8n.infotrust.systems/form/8fdaf806-9128-4315-acd1-112239a012eb",
       "icon": "infospark.png",
       "description": "Submit your innovative idea for enhancing productivity through automation and/or AI."
     },
