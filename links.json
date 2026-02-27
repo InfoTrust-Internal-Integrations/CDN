@@ -118,6 +118,13 @@
           "description": "Automation Tool",
           "icon": "sundevil.png",
           "sublinks": []
+        },
+        {
+          "name": "Data Layer Detective",
+          "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/1654817293",
+          "description": "Automates data layer QA to improve data collection and validation",
+          "icon": "dataLayerDetective.png",
+          "sublinks": []
         }
       ]
     },
