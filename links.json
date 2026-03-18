@@ -106,6 +106,13 @@
       "icon": "tools.png",
       "links": [
         {
+          "name": "Gemini Enterprise",
+          "url": "https://gemini.infotrust.systems",
+          "description": "AI Assistant",
+          "icon": "gemini.png",
+          "sublinks": []
+        },
+        {
           "name": "Tag Inspector",
           "url": "https://app.taginspector.com/",
           "description": "Tag audit & monitoring",
