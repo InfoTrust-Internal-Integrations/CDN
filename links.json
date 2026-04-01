@@ -1,5 +1,5 @@
 {
-  "version": "1.1.21",
+  "version": "1.1.22",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -321,7 +321,7 @@
     },
     {
       "name": "Marketing Design Request",
-      "url": "https://infotrust.atlassian.net/jira/core/projects/ART/form/39",
+      "url": "https://infotrust.atlassian.net/jira/software/projects/LAUNCH/form/838",
       "icon": "marketing-request.png",
       "description": "Request design work from the marketing team."
     },
