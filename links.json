@@ -1,5 +1,5 @@
 {
-  "version": "1.1.25",
+  "version": "1.1.26",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -334,7 +334,7 @@
     {
       "name": "Customer Acceleration Hub",
       "url": "https://infotrust.atlassian.net/jira/core/form/606ae2f8-8ff2-4000-a46a-8eed77c54fb1",
-      "icon": "customer-acceleration-hub-logo",
+      "icon": "customer-acceleration-hub-logo.png",
       "description": "Request help with the Customer Acceleration Hub."
     },
     {
