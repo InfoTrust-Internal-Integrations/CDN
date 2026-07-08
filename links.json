@@ -305,7 +305,7 @@
       "name": "IT Help Desk",
       "url": "https://infotrust.atlassian.net/servicedesk/customer/portal/4",
       "icon": "help-center.png",
-      "description": "Ask for technical support from the BITS team."
+      "description": "Technical support and access requests."
     },
     {
       "name": "Submit an InfoSpark Idea",
@@ -320,16 +320,28 @@
       "description": "Submit a request to present or share a quick update during an all company meeting."
     },
     {
-      "name": "Marketing Design Request",
+      "name": "Marketing Request",
       "url": "https://infotrust.atlassian.net/jira/software/projects/LAUNCH/form/838",
       "icon": "marketing-request.png",
-      "description": "Request design work from the marketing team."
+      "description": "Request help from the marketing team."
     },
     {
       "name": "Engineering Automation Request",
       "url": "https://infotrust.atlassian.net/jira/software/c/projects/ET/form/43",
       "icon": "engineering.png",
       "description": "Request automation work from the engineering team."
+    },
+    {
+      "name": "Customer Acceleration Hub",
+      "url": "https://infotrust.atlassian.net/jira/core/form/606ae2f8-8ff2-4000-a46a-8eed77c54fb1",
+      "icon": "customer-acceleration-hub-logo",
+      "description": "Request help with the Customer Acceleration Hub."
+    },
+    {
+      "name": "Tag Inspector",
+      "url": "https://infotrust.atlassian.net/jira/software/c/projects/TI/form/706",
+      "icon": "taginspector.png",
+      "description": "Request help with the Tag Inspector platform."
     }
   ]
 }
