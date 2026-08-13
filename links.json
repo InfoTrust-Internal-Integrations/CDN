@@ -1,5 +1,5 @@
 {
-  "version": "1.1.26",
+  "version": "1.1.27",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -182,8 +182,8 @@
         },
         {
           "name": "US Benefits",
-          "description": "US benefits portal",
-          "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/pages/914784263/FAQs+on+US+Benefits",
+          "description": "US benefit information",
+          "url": "https://infotrust.atlassian.net/wiki/spaces/WIKI/folder/1410334793",
           "icon": "benefits.png",
           "sublinks": [
             {
