@@ -1,5 +1,5 @@
 {
-  "version": "1.1.27",
+  "version": "1.1.28",
   "pinnedLinks": [
     {
       "name": "Comm. Hub",
@@ -12,9 +12,9 @@
       "icon": "ticket-orangey.png"
     },
     {
-      "name": "Annual Goal",
-      "url": "https://lookerstudio.google.com/embed/reporting/76b03a0b-11ad-43ca-b874-a12bdadee2f5/page/p_332ni0e4md",
-      "icon": "target-blue.png"
+      "name": "InfoTrust Dash",
+      "url": "https://dash.infotrust.systems",
+      "icon": "dash.png"
     }
   ],
   "linkGroups": [
